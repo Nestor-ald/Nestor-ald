@@ -34,6 +34,5 @@ Seja bem-vindo à minha página do GitHub! Eu sou o Mike e atualmente estou term
 :construction: Perfil em obras... Vamos tomar um café? :construction:
 
 -----------------------------------------
-Credit: [Mr-maike](https://github.com/Mr-maike)
 <br />
 Last edited on: 22.08.2025
